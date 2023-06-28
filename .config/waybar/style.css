@@ -81,7 +81,8 @@ tooltip {
 }
 
 #backlight {
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px;
+    margin-right: 10px;
 }
 
 #tray {
@@ -147,7 +148,7 @@ tooltip {
 
 #battery {
     color: #a6e3a1;
-    border-radius: 0 10px 10px 0;
+    border-radius: 10px;
     margin-right: 10px;
     border-left: 0px;
 }
