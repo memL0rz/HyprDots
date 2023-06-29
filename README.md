@@ -12,7 +12,7 @@ This is my Hyprland Rice with Installer
 # How to install
 
 - First clone the Repo -> ```git clone https://github.com/Fab1anDev/SweetHypr.git```
-- Now we change the Directory -> ```cd SweetDark```
+- Now we change the Directory -> ```cd SweetHypr```
 - Change Permissions -> ```chmod +x install.sh```
 - Now run the Installer -> ```./install.sh```
 
