@@ -41,7 +41,7 @@ if [[ $INST == "Y" || $INST == "y" ]]; then
     bluez bluez-utils lxappearance xfce4-settings \
     dracula-gtk-theme dracula-icons-git xdg-desktop-portal-hyprland \
     firefox-developer-edition gnome-software flatpak discord betterdiscord-installer-bin \
-    spotify postman virtualbox qbittorrent filezilla arduino code htop bashtop fish
+    spotify postman virtualbox qbittorrent filezilla arduino code htop bashtop fish dolphin
 
     # Start the bluetooth service
     echo -e "Starting the Bluetooth Service...\n"
