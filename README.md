@@ -1,4 +1,4 @@
-# SweetHypr
+# HyprDots
 
 This is my Hyprland Rice with Installer
 
